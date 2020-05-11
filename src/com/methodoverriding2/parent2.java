@@ -2,8 +2,7 @@ package com.methodoverriding2;
 
 public class parent2 {
 
-	 // Static method in base class 
-    // which will be hidden in subclass 
+	 // Static method in base class ,which will be hidden in subclass 
     static void m1() 
     { 
         System.out.println("From parent "
