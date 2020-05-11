@@ -5,7 +5,7 @@ public class MethodHidingMAIN {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
          
-		BaseMethodClass base = new BaseMethodClass();
+		//BaseMethodClass base = new BaseMethodClass();
 		
 		
 		
