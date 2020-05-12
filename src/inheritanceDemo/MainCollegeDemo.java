@@ -6,7 +6,7 @@ public class MainCollegeDemo {
 
 		
 		
-	/*	Teacher t=new Teacher();
+/*	Teacher t=new Teacher();
 		
 		System.out.println("teacher object created");
 		
@@ -22,23 +22,23 @@ public class MainCollegeDemo {
 		System.out.println(s.i);
 		s.attendenceDemo();
 		s.tutionFee();*/
-		/*
+
 		System.out.println("teacher reference pointing to child------------------------------------------------------------");
 		
 		
 		Teacher tt= new Student();
 		System.out.println(tt.i);
 		tt.attendenceDemo();
-		*/
+	
 		
 		
-		Student s1=new Student();
+	/*	Student s1=new Student();
 		Student s2=new Student();
 		Student s3=new Student();
 		System.out.println(s3.count);
 
 
-
+*/
 	}
 
 }
